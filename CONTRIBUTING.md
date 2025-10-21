@@ -621,7 +621,7 @@ Thank you for taking the time to contribute to AutoRFP! Your efforts help make R
 
 <div align="center">
 
-**Questions?** Reach out to [@RanitDERIA](https://github.com/RanitDERIA](https://github.com/RanitDERIA/tata-rfp/issues))
+**Questions?** Reach out to [@RanitDERIA](https://github.com/RanitDERIA](https://github.com/RanitDERIA/tata-rfp/issues)
 
 **Happy Contributing!** 🚀
 
